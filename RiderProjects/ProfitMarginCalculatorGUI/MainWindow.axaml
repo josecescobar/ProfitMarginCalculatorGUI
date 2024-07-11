@@ -1,0 +1,28 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="ProfitMarginCalculatorGUI.MainWindow"
+        Title="Profit Margin Calculator"
+        Width="400" Height="400">
+    <StackPanel Margin="10">
+        <!-- Label and TextBox for Cost Price -->
+        <TextBlock Text="Cost Price:" Margin="5"/>
+        <TextBox Name="CostPriceTextBox" Margin="5"/>
+        
+        <!-- Label and TextBox for Selling Price -->
+        <TextBlock Text="Selling Price:" Margin="5"/>
+        <TextBox Name="SellingPriceTextBox" Margin="5"/>
+        
+        <!-- Label and TextBox for Overhead Cost -->
+        <TextBlock Text="Overhead Cost:" Margin="5"/>
+        <TextBox Name="OverheadCostTextBox" Margin="5"/>
+        
+        <!-- Button to trigger the calculation -->
+        <Button Name="CalculateButton" Content="Calculate" Margin="5" Click="CalculateButton_Click"/>
+        
+        <!-- TextBlock to display the result -->
+        <TextBlock Name="ResultTextBlock" Margin="5"/>
+        
+        <!-- TextBlock to display error messages -->
+        <TextBlock Name="ErrorTextBlock" Margin="5" Foreground="Red"/>
+    </StackPanel>
+</Window>
