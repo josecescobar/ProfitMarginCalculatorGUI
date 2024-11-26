@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact & Scheduling - Better Dumpsters Today</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+<!-- Header -->
+<header>
+    <div class="logo">
+        <img src="images/logo.png" alt="Better Dumpsters Today Logo">
+    </div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="services.html">Services & Pricing</a>
+        <a href="contact.html">Contact & Scheduling</a>
+    </nav>
+</header>
+
+<!-- Contact and Scheduling Section -->
+<section id="contact">
+    <h2>Contact & Scheduling</h2>
+    <form action="/submit_form" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+        <label for="phone">Phone:</label>
+        <input type="tel" id="phone" name="phone" required><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="service">Service Type:</label>
+        <select id="service" name="service">
+            <option value="dumpster">Dumpster Services</option>
+            <option value="excavation">Excavation & Land Clearing</option>
+            <option value="hauling">Dump Trucking & Hauling</option>
+        </select><br><br>
+        <label for="date">Preferred Date:</label>
+        <input type="date" id="date" name="date"><br><br>
+        <button type="submit" class="submit-button">Schedule Now</button>
+    </form>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>Better Dumpsters Today &copy; 2024. All Rights Reserved.</p>
+    <p>Follow us on <a href="#">Facebook</a>, <a href="#">Instagram</a></p>
+</footer>
+</body>
+
+</html>
