@@ -1,0 +1,87 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.palette-colors {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.palette-color {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.palette-color-preview {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.remove-from-palette {
+  font-size: 10px;
+  padding: 2px;
+  margin-left: 5px;
+  border-radius: 5px;
+  color: grey;
+  cursor: pointer;
+}
+
+.color-options-row {
+  display: flex;
+  justify-content: center;
+}
+
+.color-options {
+  display: inline-block;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.color-option {
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.color-option-preview {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border-radius: 5px;
+}
+
+.color-option:hover {
+  color: white;
+  font-weight: bolder;
+  background-color: darkgrey;
+}
+
+.selected-color {
+  display: inline-flex;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.heart {
+  fill: transparent;
+  transition: fill 0.5s ease-in-out;
+}
+
+.selected-color:hover .heart {
+  fill: lightcoral;
+}
+
+.selected-color.already-in-palette .heart {
+  fill: red;
+}

@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  font-family: "B612", sans-serif;
+  background-color: #fff;
+  color: #3b3b3b;
+  font-size: 16px;
+}
+
+h1 {
+  width: 60%;
+  font-size: 3em;
+  text-align: left;
+  font-family: "Archivo", sans-serif;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #3b3b3b;
+  padding-bottom: 1rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+.todos {
+  margin: 1em 0;
+  padding: 1em;
+  list-style: none;
+}
+
+.todos li {
+  padding: 0.5em 0;
+  font-size: 1.25em;
+  border-bottom: 1px solid #ccc;
+}
+
+.hide {
+  display: none;
+}
+
+button.show-todos {
+  align-self: center;
+  width: 50%;
+  margin: 2em 0;
+  padding: 1em;
+  color: #292929;
+  font-size: 1.25em;
+}
+
+li::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f0c8";
+  font-weight: 900;
+  color: rgb(59, 59, 59);
+  margin-right: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 500px;
+  text-align: left;
+  border: 1px solid #ccc;
+  margin-top: 4rem;
+  padding: 2rem;
+  background-color: lightgoldenrodyellow;
+}
+
+.fa-heart {
+  color: tomato;
+  font-size: 2.7rem;
+}
