@@ -1,0 +1,225 @@
+/******** GLOBAL STYLES ********/
+html {
+	font-size: 16px;
+}
+
+body {
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-size: .9em;
+	color: #000000;
+}
+
+/* The width property has been changed to max-width */
+.content-wrapper {
+	max-width: 1200px;
+	width: 90%;
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+
+}
+
+h1,
+h2,
+h3,
+h4 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 1.875em;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+h3 {
+	font-size: 1.25em;
+}
+
+h4 {
+	font-size: .75em;
+}
+
+p {
+	font-size: 1rem;
+	line-height: 36px;
+}
+
+/******** HEADER STYLES ********/
+/* The widths are in a percentage! */
+header {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+header h1 {
+	margin: 0;
+	padding: 38px 0 20px 0;
+	border-bottom: 3px solid #77a466;
+	width: 100%;
+}
+
+header h1 span {
+	color: #45610E;
+}
+
+header nav {
+	padding: 20px 0;
+}
+
+header nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+header nav ul li {
+	font-size: .875rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 10px 0;
+	width: 100%;
+}
+
+header nav ul li a {
+	text-decoration: none;
+	color: #45610E;
+}
+
+/********  MAIN STYLES ********/
+/******** TOP SECTION ********/
+/* The widths are in a percentage! */
+.main-image img {
+	width: 100%;
+	border-top: 3px solid #77A466;
+	border-bottom: 3px solid #77a466;
+}
+
+.main-title h2 {
+	color: #45610E;
+	padding: 5px 0;
+}
+
+/******** BOTTOM SECTION ********/
+.top-section,
+.bottom-section {
+	display: flex;
+	justify-content: center;
+}
+
+.bottom-section .content-wrapper {
+	border-top: 5px solid #EEE;
+	border-bottom: 5px solid #EEE;
+}
+
+.section-one,
+.section-two,
+.section-three {
+	box-sizing: border-box;
+}
+
+.section-one {
+	width: 100%;
+}
+
+.section-two {
+	width: 100%;
+	border-top: 5px solid #EEE;
+	border-bottom: 5px solid #EEE;
+}
+
+.section-three {
+	width: 100%;
+}
+
+.bottom-section h3 {
+	margin: 30px 0;
+}
+
+.menu-list {
+	padding-left: 0;
+	list-style: none;
+}
+
+.menu-list li {
+	color: #45610E;
+	line-height: 36px;
+	font-size: 1rem;
+}
+
+/******** FOOTER STYLES ********/
+/* The widths are in a percentage! */
+footer {
+	margin-top: 8px;
+	display: flex;
+	justify-content: center;
+}
+
+footer span {
+	font-family: 'Galada', cursive;
+	text-transform: lowercase;
+	color: #45610E;
+	font-size: .875rem;
+}
+
+/******** TABLET MEDIA QUERY ********/
+@media all and (min-width: 768px) {
+
+	/******** BOTTOM SECTION ********/
+	.bottom-section .content-wrapper {
+		justify-content: space-evenly;
+	}
+
+	.section-one {
+		width: 26%;
+	}
+
+	.section-two {
+		width: 40%;
+		border-left: 5px solid #EEE;
+		border-right: 5px solid #EEE;
+		border-top: none;
+		border-bottom: none;
+		padding: 0 30px;
+	}
+
+	.section-three {
+		width: 26%;
+	}
+}
+
+/******** DESKTOP MEDIA QUERY ********/
+@media all and (min-width: 1200px) {
+
+	/******** GLOBAL STYLES ********/
+	body {
+		font-size: 1em;
+	}
+
+	header .content-wrapper {
+		justify-content: space-between;
+		align-items: center;
+		padding: 20px 0;
+	}
+
+	header h1 {
+		width: 30%;
+		padding: 0;
+		border-bottom: none;
+		text-align: left;
+	}
+
+	header nav {
+		width: 21%;
+	}
+
+	header nav ul {
+		display: flex;
+		justify-content: space-between;
+	}
+
+}
