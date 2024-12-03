@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d61e744d-754b-418a-9456-4478fa2b9470" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../105-coding_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/.idea/.idea.WebApplication3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/.idea/.idea.WebApplication3/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/.idea/.idea.WebApplication3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /obj/Debug/net6.0/Testing.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /obj/Debug/net6.0/Testing.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /obj/Debug/net6.0/Testing.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /obj/Testing.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebApplication3/Testing /obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoverwv/.idea/.idea.discoverwv.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoverwv/untitled folder/img/cities /charleston/Charleston _ West Virginia, History, Population, Map, &amp; Facts _ Britannica copy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoverwv/untitled folder/img/cities /huntington/HuntingtonWVDenisTagnetJrGetty1354262360RFC.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../discoverwv/untitled folder/main paige layout - wireframe.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/2e7b39fd-bb9d-422e-b578-76f673d25744/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/bootstrap-5.3.2-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/coding-responsive-rogue-pickings-03-finish-responsive/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (1) 2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (1)/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (1)/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (1)/src/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (2)/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (2)/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (2)/src/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (3)/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (3)/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (3)/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (3)/src/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (4)/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (4)/src/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (5)/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (5)/src/NotesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (5)/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (6)/.idea/.idea.custom-l12-build-your-big-component-help-forked (6).dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked (6)/src/NotesList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked 2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked 2/src/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked 2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/custom-l12-build-your-big-component-help-forked/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/favoriteflower/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/js-lesson04-challenge-1-solution-forked/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/js-lesson04-challenge-1-solution-forked/img/js-code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked (1)/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked (1)/src/CssOptions/CssOption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked (1)/src/CssOptions/SelectedCssOption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked (1)/src/Palette/PaletteColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked (1)/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked (1)/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked/src/CssOptions/CssOption.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l11-challenge-forked/src/CssOptions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l12-build-your-big-component-help-forked 2/src/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l12-build-your-big-component-help-forked 2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l12-build-your-big-component-help-forked 2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l12-build-your-big-component-help-forked 3/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l12-build-your-big-component-help-forked/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l14-search-notes-in-your-app-solution-forked/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l14-search-notes-in-your-app-solution-forked/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l2-soft-challenge-light-switch-forked/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l3-turn-our-pseudocode-into-jsx-forked/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l3-turn-our-pseudocode-into-jsx-forked/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l4-build-a-module-using-arrow-functions-forked/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l4-build-a-module-using-arrow-functions-forked/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (1) 2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (2) 2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (2) 2/src/NameTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (2)/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (2)/src/NameTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (2)/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (2)/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (3) 2/src/NameTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (3)/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (4) 2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (4) 2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (4)/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked (4)/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked 2/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked 2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l5-write-a-functional-component-forked 2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-build-an-unordered-list-using-a-data-model-forked/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-build-an-unordered-list-using-a-data-model-forked/src/Filters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-build-an-unordered-list-using-a-data-model-forked/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked 2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked 2/src/Filters/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked 2/src/Hotels/RoomsLeft.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked 2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked/src/Filters/Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-forked/src/Hotels/BestsellerFlag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-solution-forked 2/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-solution-forked 2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-solution-forked 2/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-solution-forked/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l6-render-our-data-model-solution-forked/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l7-stateful-hotel-filters-forked/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l7-stateful-hotel-filters-forked/src/Hotels/BestsellerFlag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l7-stateful-hotel-filters-forked/src/Hotels/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l7-the-perfect-team-forked/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l8-build-your-name-tag-text-inputs-forked/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l8-build-your-name-tag-text-inputs-forked/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l8-build-your-name-tag-text-inputs-forked/src/NameTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l9-viewing-lifecycle-methods-via-console-log-forked/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/l9-viewing-lifecycle-methods-via-console-log-forked/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-10-celebrate-with-methods/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-10-practice-exercises-objects-methods-exercise-1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-10-practice-exercises-objects-methods-exercise-2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-10-practice-exercises-objects-methods-exercise-3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-10-properties-dot-notation/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-display-pet-objects/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-display-pet-objects/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-display-pet-objects/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-display-pet-objects/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-factory-function-pattern-for-pets/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-factory-function-pattern-for-pets/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-practice-exercises-factory-functions-exercise-1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-practice-exercises-factory-functions-exercise-2/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-practice-exercises-factory-functions-exercise-2/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-practice-exercises-factory-functions-exercise-3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-11-practice-exercises-factory-functions-exercise-3/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-2-exercises-data-types-arthimetic-operators-exercise-1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-2-exercises-data-types-arthimetic-operators-exercise-2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-3-practice-exercises-data-types-arithmetic-operators-exercise-3/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-3-what-day-is-it/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-connecting-javascript-to-html/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-manipulating-the-dom/img/js-icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-manipulating-the-dom/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-manipulating-the-dom/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-practice-exercises-js-html-css-exercise-1/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-practice-exercises-js-html-css-exercise-1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-practice-exercises-js-html-css-exercise-2/img/clara.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-practice-exercises-js-html-css-exercise-2/img/lulu.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-practice-exercises-js-html-css-exercise-2/img/sasha.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-4-selecting-modifying-with-queryselector/img/nell.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-click-event-kitty/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-click-event-kitty/img/cat-fren.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-click-event-kitty/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-event-handling-with-if-else-statements/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-practice-exercises-events-event-listeners-exercise-1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-practice-exercises-events-event-listeners-exercise-1/img/background-light.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-practice-exercises-events-event-listeners-exercise-1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-practice-exercises-events-event-listeners-exercise-2/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-practice-exercises-events-event-listeners-exercise-2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-practice-exercises-events-event-listeners-exercise-3/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-5-practice-exercises-events-event-listeners-exercise-3/img/you-got-this-woman.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-6-budget-your-vacay/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-6-budget-your-vacay/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-6-practice-exercises-functions-exercise-3/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-6-whats-your-function/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-6-whats-your-function/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-build-a-subscription-calculator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-build-a-subscription-calculator/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-changing-components-from-functional-to-stateful/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-function-powered-modal/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-function-powered-modal/img/you_got_this.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-function-powered-modal/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-keydown-change-events/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-keydown-change-events/img/background-light.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-keydown-change-events/img/texture-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-practice-exercises-keydown-change-events-exercise-1/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-practice-exercises-keydown-change-events-exercise-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-practice-exercises-keydown-change-events-exercise-2/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-7-practice-exercises-keydown-change-events-exercise-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-build-your-name-tag-text-inputs-forked/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-generate-a-grocery-shopping-list/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-generate-a-grocery-shopping-list/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-looping-arrays/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-practice-exercises-arrays-loops-exercise-1/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-practice-exercises-arrays-loops-exercise-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-practice-exercises-arrays-loops-exercise-1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-practice-exercises-arrays-loops-exercise-2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-practice-exercises-arrays-loops-exercise-3/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-8-practicing-arrays/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-assemble-potluck-guest-list/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-assign-a-potluck-dish/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-assign-a-potluck-dish/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-assign-a-potluck-dish/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-finish-your-name-tags-using-lifecycle-methods/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-practice-exercises-scope-exercise-1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-practice-exercises-scope-exercise-2/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-practice-exercises-scope-exercise-2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-practice-exercises-scope-exercise-3/.codesandbox/workspace.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-practice-exercises-scope-exercise-3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/module-9-practice-exercises-scope-exercise-3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/numberofhorses/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/numberofhorses/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/react-l1/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/working-with-modules-forked/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../code-sandbox/working-with-modules-forked/src/greeting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev-portfolio-wireframes/Desktop-Spacing-Developer-Portfolio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev-portfolio-wireframes/Mobile-Wireframe-Developer-Portfolio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dev-portfolio-wireframes/Tablet-Spacing-Developer-Portfolio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../epic-mix-playlist.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fetch-random-image-array" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module-12-practice-exercises-intro-to-apis-exercise 1/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../module-12-practice-exercises-intro-to-apis-exercise 1/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../potluck-guest-list.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../recipe-cards" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../rogue-pickings.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../super-sticky-notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../super-sticky-notes/.idea/.idea.super-sticky-notes.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../super-sticky-notes/.idea/.idea.super-sticky-notes.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../super-sticky-notes/.idea/.idea.super-sticky-notes.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../super-sticky-notes/.idea/.idea.super-sticky-notes.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../upcoming field trip registrations-03-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../upcoming field trip registrations-03-main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../upcoming field trip registrations-03-main/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../upcoming field trip registrations-03-main/registrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wgu/west-virginia-website-project.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;josecescobar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:josecescobar/ProfitMarginCalculatorGUI.git&quot;,
+    &quot;accountId&quot;: &quot;eff05688-bf1d-4099-a983-8f85f6f3c9dd&quot;
+  }
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pGVhIrauip1aXxkvTJtbuxMaNS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-GitHub Copilot&quot;: &quot;GitHub Copilot&quot;,
+    &quot;Notification.DoNotAsk-GitHub Copilot&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.11.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.9.3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/Users/joseescobar/Library/Application Support/JetBrains/Rider2024.3/node/versions/22.11.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d61e744d-754b-418a-9456-4478fa2b9470" name="Changes" comment="" />
+      <created>1732392517027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732392517027</updated>
+      <workItem from="1732392518086" duration="1942000" />
+      <workItem from="1732396685096" duration="20391000" />
+      <workItem from="1732476472490" duration="8977000" />
+      <workItem from="1732651151749" duration="14918000" />
+      <workItem from="1733079031569" duration="3485000" />
+      <workItem from="1733086832039" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Update index.html: Added hero section, navigation links, and footer for enhanced layout&quot;">
+      <option name="closed" value="true" />
+      <created>1732398843796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732398843796</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add JavaScript functionality for hamburger menu toggle and link interactions">
+      <option name="closed" value="true" />
+      <created>1732399252870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732399252870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Add styles for hero section, navigation, and footer to enhance layout and responsiveness&quot;">
+      <option name="closed" value="true" />
+      <created>1732399634695</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732399634695</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Add .gitignore to exclude IDE configuration files and workspace settings&quot;">
+      <option name="closed" value="true" />
+      <created>1732399790064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732399790064</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Update project card layout to reduce redundancy and improve accessibility&quot;">
+      <option name="closed" value="true" />
+      <created>1732410469042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732410469042</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;Add styling for skills section and resize skill icons for better consistency&quot;">
+      <option name="closed" value="true" />
+      <created>1732410488304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732410488304</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Add skill icons for portfolio skills section&quot;">
+      <option name="closed" value="true" />
+      <created>1732411860250</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732411860250</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated index.html to include Bitmoji images in the hero, about, and skills sections, enhancing personal branding and visual appeal.">
+      <option name="closed" value="true" />
+      <created>1732649332736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732649332736</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added styling for Bitmoji images in hero, about, and skills sections to improve alignment, sizing, and visual consistency across the website.">
+      <option name="closed" value="true" />
+      <created>1732649345063</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732649345063</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Bitmoji images for hero, about, and skills sections to enhance personal branding and website interactivity.">
+      <option name="closed" value="true" />
+      <created>1732649356413</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732649356413</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update HTML files for Better Dumpsters Today&#10;&#10;- Updated 404, contact, index, and services pages for Better Dumpsters Today.">
+      <option name="closed" value="true" />
+      <created>1732665544694</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732665544694</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="&quot;Update index.html: Added hero section, navigation links, and footer for enhanced layout&quot;" />
+    <MESSAGE value="Add JavaScript functionality for hamburger menu toggle and link interactions" />
+    <MESSAGE value="&quot;Add styles for hero section, navigation, and footer to enhance layout and responsiveness&quot;" />
+    <MESSAGE value="&quot;Add .gitignore to exclude IDE configuration files and workspace settings&quot;" />
+    <MESSAGE value="&quot;Update project card layout to reduce redundancy and improve accessibility&quot;" />
+    <MESSAGE value="&quot;Add styling for skills section and resize skill icons for better consistency&quot;" />
+    <MESSAGE value="&quot;Add skill icons for portfolio skills section&quot;" />
+    <MESSAGE value="Updated index.html to include Bitmoji images in the hero, about, and skills sections, enhancing personal branding and visual appeal." />
+    <MESSAGE value="Added styling for Bitmoji images in hero, about, and skills sections to improve alignment, sizing, and visual consistency across the website." />
+    <MESSAGE value="Added Bitmoji images for hero, about, and skills sections to enhance personal branding and website interactivity." />
+    <MESSAGE value="Update HTML files for Better Dumpsters Today&#10;&#10;- Updated 404, contact, index, and services pages for Better Dumpsters Today." />
+    <MESSAGE value="Misc updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Misc updates" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
