@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../105-coding_resources" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../fetch-random-image-array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../recipe-cards" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../super-sticky-notes" vcs="Git" />
   </component>
 </project>
